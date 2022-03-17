@@ -8,4 +8,4 @@
 ## Como executar:
 <p>O modo mais fácil é criar um projeto no Netbeans e adicionar os devidos pacotes da pasta "src/".</p>
 
-![imagem](imagem/Calculadora.png "Imagem do programa")
+<img align = "center" src = "https://cdn.discordapp.com/attachments/663560898253946918/953850549420294254/Calculadora.png">
