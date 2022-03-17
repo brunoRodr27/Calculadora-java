@@ -8,4 +8,4 @@
 ## Como executar:
 <p>O modo mais fácil é criar um projeto no Netbeans e adicionar os devidos pacotes da pasta "src/".</p>
 
-![imagem](image/Calculadora.png "Imagem do programa")
+![imagem](imagem/Calculadora.png "Imagem do programa")
