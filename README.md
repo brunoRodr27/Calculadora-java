@@ -1,4 +1,4 @@
-# Calculadora  simples feita em Java
+# Calculadora simples feita em Java
 
 ## Como foi feito:
 
